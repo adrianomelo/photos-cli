@@ -41,6 +41,11 @@ packages:
 #
 # extra-deps: []
 
+allow-newer: true
+
+extra-deps:
+- hsexif-0.6.1.6@sha256:8972d2c8f81734c3acd1a269f74b153a865b1898c58eed561cb74cd0ab7eecb5,2287
+
 # Override default flag values for local packages and extra-deps
 # flags: {}
 
